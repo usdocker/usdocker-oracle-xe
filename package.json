@@ -20,8 +20,5 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.4.1"
-  },
-  "dependencies": {
-    "usdocker": "^1.0.5"
   }
 }
