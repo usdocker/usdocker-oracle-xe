@@ -5,8 +5,7 @@
   "main": "usdocker_oracle-xe.js",
   "scripts": {
     "test": "./node_modules/.bin/eslint *.js",
-    "preinstall": "npm i -g usdocker",
-    "postinstall": "./node_modules/.bin/usdocker -rv"
+    "postinstall": "usdocker -rv"
   },
   "keywords": [
     "usdocker",
