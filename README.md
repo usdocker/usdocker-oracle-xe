@@ -6,7 +6,7 @@ You don't have know docker to use this solution.
 ## Installing
 
 ```bash
-npm install -g usdocker-oracle-xe
+npm install -g @usdocker/usdocker @usdocker/oracle-xe
 ```
 
 ## Start the oracle-xe service
